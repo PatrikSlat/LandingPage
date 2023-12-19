@@ -186,3 +186,14 @@ h1{
     margin: 100px;
     border-radius: 5px;
 }
+
+.fifth-section{
+    display: flex;
+    justify-content: center;
+    background-color: #1f2937;
+}
+
+.copyright{
+    color: #f9faf8;
+    margin: 50px;
+}
