@@ -94,23 +94,29 @@ h1{
     font-weight: bolder;
     color: #1f2937;
     margin-top: 20px;
+    margin-bottom: 35px;
 }
 
-.box-section{
+.row-of-blue-divs{
     display: flex;
     flex-direction: row;
-}
-
-.container-of-boxes{
-    display: flex;
-
+    justify-content: space-between;
+    max-width: 50%;
+    margin-left: 500px;
+    align-items: center;
 }
 
 .blue-box{
+    border: 3px solid #3882F6;
     width: 200px;
     height: 200px;
-    border: 5px solid #3882F6;
-    border-radius: 20px;
+    border-radius: 5px;
+    margin-bottom: 10px;
 }
 
+.p-second{
+    color: gray;
+    size: 18px;
+    text-align: center;
+}
 
