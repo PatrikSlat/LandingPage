@@ -87,3 +87,30 @@ ul{
     color: #E5E7EB;
     font-weight: bold;
 }
+
+h1{
+    text-align: center;
+    size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+    margin-top: 20px;
+}
+
+.box-section{
+    display: flex;
+    flex-direction: row;
+}
+
+.container-of-boxes{
+    display: flex;
+
+}
+
+.blue-box{
+    width: 200px;
+    height: 200px;
+    border: 5px solid #3882F6;
+    border-radius: 20px;
+}
+
+
