@@ -120,3 +120,31 @@ h1{
     text-align: center;
 }
 
+.third-section{
+    margin-top: 50px;
+    background-color: #E5E7EB;
+}
+
+.qoute-container{
+    display: flex;
+    justify-content: center;
+}
+
+.qoute-row{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.qoute{
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: lighter;
+    font-style: italic;
+    margin-top: 50px;
+}
+
+.author-of-qoute{
+    color: #1f2937;
+    font-size: 36px;
+}
